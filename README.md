@@ -1,5 +1,7 @@
 ![lucky](img/github-header-banner.png)
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&weight=600&size=21&pause=1000&color=F7A709&background=FFD01900&center=true&vCenter=true&width=435&lines=Lucky+Andra+Pratama;Electrical+Engineering+Student+%E2%9A%A1;Hardware+%26+Software+Engineer;C%2B%2B+%2B+Python+%2B+Hardware;Feel+free+to+explore+my+work)](https://git.io/typing-svg)
 
 --- 
@@ -56,15 +58,3 @@ ___
 
 ![https://www.linkedin.com/in/lucky-andra-pratama-3978ab320/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
----
-
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luandraa/Luandraa/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luandraa/Luandraa/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Luandraa/Luandraa/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
