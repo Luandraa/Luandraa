@@ -28,7 +28,6 @@ Feel free to explore my repositories and reach out for collaboration!
 
 <img src="https://img.shields.io/badge/STM32-0d1421?style=for-the-badge&logo=stmicroelectronics&logoColor=4fa8ff"/>
 
----
 
 <!--
 **Luandraa/Luandraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
